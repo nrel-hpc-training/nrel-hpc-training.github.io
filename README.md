@@ -1,2 +1,11 @@
-# nrel-hpc-training.github.io
-HPC Training Resources, FAQs, Examples, Tutorials, and Getting Started Guides
+1. [Introduction to Using Linux Operating Systems](intro-to-linux)
+2. [How to connect to Peregrine (and replacement system) from inside and remote](connecting-to-nrel-hpc)
+3. [How to transfer files from one system to another, including GLOBUS](how-to-transfer-files)
+5. [Running Jupyter notebooks and python on Peregrine (and replacement system)](Jupyterhub)
+6. [Queueing systems and running jobs](queueing-systems-basics)
+7. [Software environment basics - Conda, modules, EPEL, Docker containers, etc.](software-environment-basics)
+8. [Building applications that use compiled languages](building-packages)
+9. [Building applications that use MPI](building-mpi-applications)
+10. [Running GUI applications on Peregrine (and replacement system)](running-graphical-applications)
+11. [Visualization basics - what we have and how to use it](visualization-basics)
+12. [Storing data - short term vs. long term, files, databases & objects, policies](data-storage)
